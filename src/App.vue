@@ -15,4 +15,8 @@ body {
   padding: 0;
   font-family: 'Quicksand', sans-serif;
 }
+
+main {
+  padding: 2% 10%;
+}
 </style>
