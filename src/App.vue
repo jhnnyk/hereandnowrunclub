@@ -13,8 +13,9 @@ import NavBar from './components/NavBar.vue';
 body {
   margin: 0;
   padding: 0;
-  font-family: 'Quicksand', sans-serif;
+  font-family: 'Poppins', sans-serif;
   font-size: 16px;
+  font-weight: 300;
 }
 
 h1,
@@ -25,7 +26,7 @@ h5,
 h6 {
   margin: 0;
   padding: 0;
-  font-weight: bold;
+  font-weight: 600;
 }
 
 h1 {
