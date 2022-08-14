@@ -1,5 +1,5 @@
 <template>
-  <main class="about">
+  <main class="coaches">
     <h1>Coaches</h1>
     <h2>Travis</h2>
     <p>

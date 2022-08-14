@@ -28,6 +28,13 @@ header {
 
 header a {
   color: white;
+  padding: 0 10px;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+header a:hover {
+  text-decoration: underline;
 }
 
 #logo {
