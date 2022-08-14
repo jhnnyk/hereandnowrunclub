@@ -18,6 +18,12 @@ body {
   font-weight: 300;
 }
 
+@media (max-width: 600px) {
+  body {
+    font-size: 14px;
+  }
+}
+
 h1,
 h2,
 h3,
@@ -45,5 +51,9 @@ p {
 
 main {
   padding: 0 10% 2% 10%;
+}
+
+p img {
+  max-width: 100%;
 }
 </style>
